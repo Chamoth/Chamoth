@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 there, I’m <a href="https://github.com/Chamoth">Chamoth Devinda Ketipe Arachchi</a> </h1>
-<h3 align="center">A Passionate Web Developer | IT Undergraduate <a href="https://www.sliit.lk/">@SLIIT</a> | Software Engineer <a href="https://arimaclanka.com/">@Arimac</a></h3><br>
+<h3 align="center">A Passionate Web Developer | IT Graduate <a href="https://www.sliit.lk/">@SLIIT</a> | Software Engineer <a href="https://arimaclanka.com/">@Arimac</a></h3><br>
 
 ![](https://komarev.com/ghpvc/?username=Chamoth&color=blue&style=plastic)
 
